@@ -121,7 +121,7 @@ void fluorescent(uint8_t flPin) { // Similate the starting of a fluorescent ligh
 }
 
 void defaultPattern() { // Toggle a random led on or off
-  int i = random(0,15);
+  int i = random(0, MAX_LEDS); // 0 to MAX_LEDS-1, so all 16 LEDs can be picked
   setRegisterPin(i , !registers[i]); // Toggle state
   writeRegisters();
 }

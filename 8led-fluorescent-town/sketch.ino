@@ -8,7 +8,7 @@ void setup() {
 
 void loop() {
 
-  int pickme = random(1,9); // picks a random pattern of LED patterns
+  int pickme = random(1,11); // picks a random pattern of LED patterns (1-10)
 	switch(pickme) {
     case 1:
     fillall();

@@ -14,7 +14,7 @@ void setup() {
   }
 
 void loop() {
-  int pattern = random(1,12); // picks a random pattern of LED patterns
+  int pattern = random(1,13); // picks a random pattern of LED patterns (1-12)
   Serial.print(pattern);
   Serial.print("\t");
 	switch(pattern) {
