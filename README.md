@@ -11,4 +11,5 @@ The circuits can be simulated in the browser on [Wokwi](https://wokwi.com) befor
 | [8led-diorama](8led-diorama/) | 8 LEDs on an Arduino Nano with random lighting patterns, a fluorescent tube and a welding light | [Open](https://wokwi.com/projects/364533086125248513) |
 | [8led-fluorescent-town](8led-fluorescent-town/) | A flickering fluorescent tube plus 7 LEDs that switch on and off at random, like lights in a building or town | [Open](https://wokwi.com/projects/364528282739764225) |
 | [16led-shift-register](16led-shift-register/) | 16 LEDs on two chained 74HC595 shift registers with random lighting patterns and a potentiometer for the speed | [Open](https://wokwi.com/projects/364879086655198209) |
+| [rgb-led-tv-club](rgb-led-tv-club/) | One RGB LED that cycles through colours like a TV in a living room or the lights of a bar or club | [Open](https://wokwi.com/projects/364635810595846145) |
 | [rgb-led-welding](rgb-led-welding/) | Welding effect with one RGB LED: blue-white flashes, sometimes followed by glowing melting steel | [Open](https://wokwi.com/projects/365253880279768065) |
